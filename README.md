@@ -22,4 +22,4 @@ Monte-Carlo Markov Chain:
 
 ## Week 7
 Final project:
-[Facial composites with variational autoencoder & Gaussian processes](week7_(week7_(final_project)/finding_suspect.ipynb))
+[Facial composites with variational autoencoder & Gaussian processes](week7_(final_project)/finding_suspect.ipynb)
