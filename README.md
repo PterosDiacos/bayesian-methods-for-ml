@@ -1,19 +1,25 @@
-# Bayesian Methods for Machine Learning course resources
+# Bayesian Methods for Machine Learning course projects
 
 <img src="logo.jpeg" width="100">
 
+This repo contains my **worked projects** for the _Bayesian Methods for Machine Learning_ course
+by Higher School of Economics:
 https://www.coursera.org/learn/bayesian-methods-in-machine-learning
 
+## Week 2
+Expectation-maximization algorithm:
+[Gaussian Mixture Model](week2/em_assignment.ipynb)
 
-Wellcome to our GitHub repo for the course. You can clone the repository and solve the assignments locally, or run them on Google Colab.
+## Week 4
+Monte-Carlo Markov Chain:
+[probabilistic programming with pyMC3](week4/mcmc_assignment.ipynb)
 
-## Running on Google Colab
-Google has released its own flavour of Jupyter called Colab, which has free GPUs!
+## Week 5
+[Variational Autoencoder](week5/Vae_assignment.ipynb)
 
-Here's how you can use it:
-1. Open https://colab.research.google.com, click **Sign in** in the upper right corner, use your Google credentials to sign in.
-2. Click **GITHUB** tab, paste https://github.com/hse-aml/bayesian-methods-for-ml and press Enter
-3. Choose the notebook you want to open, e.g. `week2/em_assignment.ipynb`
-4. Click **File -> Save a copy in Drive...** to save your progress in Google Drive
-5. To use GPU click **Runtime -> Change runtime type** and select **GPU** in Hardware accelerator box
-6. If you run many notebooks on Colab, they can continue to eat up memory, you can check GPU memory usage with `! nvidia-smi`.
+## Week 6
+[Gaussian processes and Bayesian optimization](week6/gp_assignment.ipynb)
+
+## Week 7
+Final project:
+[Facial composites with variational autoencoder & Gaussian processes](week7_(week7_(final_project)/finding_suspect.ipynb))
